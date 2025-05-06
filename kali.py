@@ -724,7 +724,7 @@ def main():
     **Author:** E. O. Hachem Aouadi
     **Advisors:**
      - Col. Dr. Mohamed Hechmi Jeridi
-     - Col. Radhwen Hedi
+     - Dr. Tarek Azzebi
      - lt. Ben Abdallah Asser
     """)
 
